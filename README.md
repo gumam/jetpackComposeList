@@ -1,2 +1,2 @@
 # compose android
-Проба Jetpack Compose
+testing Jetpack Compose
